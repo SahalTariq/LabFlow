@@ -1,0 +1,8 @@
+{
+  "name": "LabFlow",
+  "description": "Diagnostic laboratory management system for patient registration, sample tracking, report review, WhatsApp delivery, and lab administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
